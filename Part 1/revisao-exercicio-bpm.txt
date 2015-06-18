@@ -1,0 +1,5 @@
+
+- Acho que utilizar o format "odt" (Formato aberto) é melhor que "docx" (Microsoft), assim da menos problemas entre ferramentas
+- A imagem no começo que deveria ser um mind maps a princíprio não aparece para mim como docx
+- Interessante que já conseguisse identificar personas, mas tenta ver esse negócio do documento que não da para ver os fluxos (eles podem ter problema por lá também)
+
