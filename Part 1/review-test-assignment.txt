@@ -1,0 +1,15 @@
+- Estava confuso sobre os testes até perceber que você está usando applicable para "aplicado", quando significa "applicável", validar se é aplicável é diferente de validar se é aplicado
+- Portanto "applicable" -> "applied"
+- Sobre esse teste:
+    " Validate if basic tax is applicable to some items (no books, foods or medical products) "
+    Você quer dizer para validar se a taxa não é aplicado aos itens citados? Se for o caso, não está tão claro a escrita
+
+- "Validate data in total amount"
+    Eh uma validação do total calculado? que tal "Validate calculated total value/amount"?
+
+Da para fazer mais casos de teste, tudo que pode dar de errado, pode ser um teste à ser feito:
+    - Cada campo da nota calculado
+    - Item escaneado vs taxas aplicadas
+    - Todos os cálculos que são feitos em algum momento podem ser testados
+    - Ser mais claro e explícito em casos de teste é melhor, se falar "validar impostos" é muito mais genérico do que dizer "verificar se iten X, Y, Z tem 10% a mais de impostos"
+    - Todo campo que é uma soma acumulada de alguma coisa também podem ser testes
