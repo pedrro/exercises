@@ -13,3 +13,5 @@ Da para fazer mais casos de teste, tudo que pode dar de errado, pode ser um test
     - Todos os cálculos que são feitos em algum momento podem ser testados
     - Ser mais claro e explícito em casos de teste é melhor, se falar "validar impostos" é muito mais genérico do que dizer "verificar se iten X, Y, Z tem 10% a mais de impostos"
     - Todo campo que é uma soma acumulada de alguma coisa também podem ser testes
+    - Presta bastante atenção em cada parte da notinha, cada uma delas tem uma relavância de negócio, e pode ser testada, e pode implicar nos valores ou impostos
+    - E também lembrar que não é apenas uma nota impressa na tela do computador, isso de alguma forma vai para o mundo físico para entregar para as pessoas, que tipo de problema pode ocorrer com isso?
