@@ -1,1 +1,7 @@
 Continuous integration , is the way to build a software making little changes and following a correct flow where all build process are automated, so, when the developer or QA made a new code/test the build will validate in the system if your code/test brokes some feature or process, this practice is very important in development process, because it reduce costs of project in maintenance of the code once that bugs are more easy to find and resolve. Continuous delivery walk together with Continuous integration because once that you have a continuous integration process implanted in your project is very easy to make deploys of your code to production and get feedbacks about it.
+
+
+Jean:
+- Can you elaborate better the relationship between CI and CD?
+- More important: you don't relate CD to business value, and the kind of advantages that it brings, that is I guess the most important part here
+- Whats the main point of CI and CD?
